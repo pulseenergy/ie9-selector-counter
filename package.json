@@ -21,10 +21,12 @@
   "gitHead": "a779a50ece918c50e3918730b20cf862e580c197",
   "devDependencies": {
     "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.3.0",
     "grunt-release": "~0.3.3",
-    "grunt-contrib-connect": "~0.3.0"
+    "nock": "^0.59.1"
   },
   "dependencies": {
-    "mocha": "^2.1.0"
+    "mocha": "^2.1.0",
+    "tmp": "0.0.25"
   }
 }
